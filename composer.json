@@ -1,0 +1,16 @@
+{
+    "name": "zyxshayne/sms",
+    "description": "this is my first pack",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zyxshayne\\Sms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "this is my first pack"
+        }
+    ],
+    "require": {}
+}
